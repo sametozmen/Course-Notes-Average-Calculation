@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Takdir Teşekkür Hesabım</string><string name="dersnotu">Not Ortalaması</string>
+    <string name="derssaati">Ders Saati</string>
+    <string name="ders">Dersler</string>
+    <string-array name="derslistesi">
+        <item>Ders Seçiniz</item>
+        <item>Matematik</item>
+        <item>Geometri</item>
+        <item>Fizik</item>
+        <item>Kimya</item>
+        <item>Biyoloji</item>
+        <item>Türkçe</item>
+        <item>Türk Edebiyatı</item>
+        <item>Dil ve Anlatım</item>
+        <item>Diksiyon ve Hitabet</item>
+        <item>Çağdaş Türk ve Dünya Tarihi</item>
+        <item>T.C İnkılap Tarihi</item>
+        <item>Tarih</item>
+        <item>Coğrafya</item>
+        <item>Yabancı Dil</item>
+        <item>İkinci Yabancı Dil</item>
+        <item>Felsefe</item>
+        <item>Sosyoloji</item>
+        <item>Psikoloji</item>
+        <item>Resim/Müzik</item>
+        <item>Milli Güvenlik Bilgisi</item>
+        <item>Sağlık Bilgisi</item>
+        <item>Trafik ve İlkyardım</item>
+        <item>Beden Eğitimi</item>
+        <item>Din Kültürü ve Ahlak Bilgisi</item>
+        <item>Diğer</item>
+    </string-array>
+    <string name="hesapla">Hesapla</string>
+    <string name="temizle">Temizle</string>
+    <string name="hakkinda">Hakkında</string>
+    <string name="cikis">Çıkış</string>
+    <string name="hakkinda_metni">Bu uygulama Bubble Studio Tarafından yapılmıştır.\nAyrıca birkaç tüyo \nYazarak çalışmayı deneyin ve mutlaka sessiz bir ortam tercih edin.\nMüzik dinlemeyin.\nÇalıştıklarınızı birilerine anlamaya çalışın.</string>
+    <string name="aciklama">İlk ve orta dereceli okullar için karne notu ortalaması hesaplayıcı</string>
+    
+
+</resources>
